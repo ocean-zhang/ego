@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ego-manager-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ego-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-manager-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-manager-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
